@@ -2,8 +2,8 @@
 
 **Series:** Building a Companion That Remembers — Episode 1  
 **Working title:** Memory Is the Product  
-**Status:** DRAFT APPROVED 2026-10-27 — publish when canonical domain + public GitHub repo URL are set. Per-channel syndicate still needs its own yes.  
-**Canonical URL:** https://justinzwick.com/why-do-ai-companions-forget-you-on-refresh/ (planned slug; confirm on publish)  
+**Status:** PUBLISHED 2026-10-27 — canonical live. Per-channel syndicate still needs its own yes.  
+**Canonical URL:** https://justinzwick.com/why-do-ai-companions-forget-you-on-refresh/  
 **Public repo:** https://github.com/justzwick/companion-that-remembers  
 **Date drafted:** 2026-10-27 (America/Denver)
 
@@ -268,7 +268,7 @@ Reply with one concrete fact type (a name, a hard constraint, a goal, a person, 
 
 ## Syndication note
 
-**Canonical URL:** https://justinzwick.com/why-do-ai-companions-forget-you-on-refresh/ (planned slug; confirm on publish) (Justin's own domain).  
+**Canonical URL:** https://justinzwick.com/why-do-ai-companions-forget-you-on-refresh/ (Justin's own domain).  
 Planned syndicate order after canonical publish and per-channel yes: Hashnode (canonical back-link) → dev.to (canonical back-link) → X thread → LinkedIn builder post → Reddit **one sub** (Ep 1 candidate: r/Development; native opener; lead with the technical problem) → German draft flagged `needs-justin-qa-de` (typical lag 2–3 days) → README / series hub update.
 
 Video, Shorts, and voiceovers are out of scope for the Companion Series bot checklist. If I film personally later, that is a separate per-piece approval.
