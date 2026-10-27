@@ -103,7 +103,7 @@ Mohamed discovered TTS economics late and stopped. We design to a budget at the 
 
 ### What Sprint 1 should produce
 
-- Public repo from commit #1 (**URL TBD**).
+- Public repo from commit #1: https://github.com/justzwick/companion-that-remembers.
 - Python 3.12 + FastAPI app with a minimal chat endpoint.
 - Postgres + pgvector in the skeleton (present for the path ahead; not yet powering recall).
 - A chat UI that holds conversation only in the live session (or equivalent) so **refresh clears identity**.
